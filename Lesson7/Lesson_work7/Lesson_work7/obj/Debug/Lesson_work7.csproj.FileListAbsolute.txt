@@ -1,0 +1,8 @@
+C:\Users\Карина\source\repos\Lesson_work7\Lesson_work7\bin\Debug\Lesson_work7.exe.config
+C:\Users\Карина\source\repos\Lesson_work7\Lesson_work7\bin\Debug\Lesson_work7.exe
+C:\Users\Карина\source\repos\Lesson_work7\Lesson_work7\bin\Debug\Lesson_work7.pdb
+C:\Users\Карина\source\repos\Lesson_work7\Lesson_work7\obj\Debug\Lesson_work7.csproj.AssemblyReference.cache
+C:\Users\Карина\source\repos\Lesson_work7\Lesson_work7\obj\Debug\Lesson_work7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Карина\source\repos\Lesson_work7\Lesson_work7\obj\Debug\Lesson_work7.csproj.CoreCompileInputs.cache
+C:\Users\Карина\source\repos\Lesson_work7\Lesson_work7\obj\Debug\Lesson_work7.exe
+C:\Users\Карина\source\repos\Lesson_work7\Lesson_work7\obj\Debug\Lesson_work7.pdb
